@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Inventory_management.CategoryForm" Collapsed="true">
+    <Position X="16" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQQCCwAABQIAACAAQACEIF4AAACAIAQAQABgAA=</HashCode>
+      <FileName>CategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.CategoryModule">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQDCgAABQcAACAQQCCAABAIBAAAQBBEQJFAAA=</HashCode>
+      <FileName>CategoryModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.CostumerModuleForm">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAAAQDCgCABQYAACEQQACAABAIBAgAQABIQJFQAQ=</HashCode>
+      <FileName>CostumerModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.CustomerForms" Collapsed="true">
+    <Position X="16" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQCCgAABQIIACgAQACEIF4BgACAIAAAQABAAA=</HashCode>
+      <FileName>CustomerForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.main" Collapsed="true">
+    <Position X="16" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAAAQQCCgAIBUMAACAQQACEABACAAAAAAAFQBFAAA=</HashCode>
+      <FileName>main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.main2" Collapsed="true">
+    <Position X="16" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAgIhEQCWgAQQANAgiEQQACABBAAECAQAIgEYFFAgA=</HashCode>
+      <FileName>main2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.ModuleUser">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAQDCgAAJQcAACEQQACAABAAAACAVABMQIFAAA=</HashCode>
+      <FileName>ModuleUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.OrderForm" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAQCCgAABQIAACAAQACEAH4RwAAAIAgAQABAAA=</HashCode>
+      <FileName>OrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.OrderModule">
+    <Position X="10" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>MBAYAhAQKC0ABhbsIACoQQACEgT4Z4AAAAAAMUBVgAQ=</HashCode>
+      <FileName>OrderModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.ProductForm" Collapsed="true">
+    <Position X="16" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAQCCgAIBYIAACIAQACEAHQBwACAIAAAUBDAAA=</HashCode>
+      <FileName>ProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.ProductModuleForm">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAIAQDCgAAJQcAACEQQASEABAIBACAQARMwJFAAA=</HashCode>
+      <FileName>ProductModuleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.Program" Collapsed="true">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.UserForm" Collapsed="true">
+    <Position X="16" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAACCQCCgAABQIAACAAQACEIF4hwACAAIAAQABAAI=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.WelcomeForm" Collapsed="true">
+    <Position X="16" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAAACAAAACAAAAAAAAAAQAAABAEAA=</HashCode>
+      <FileName>WelcomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.Properties.Resources" Collapsed="true">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_management.Properties.Settings" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
